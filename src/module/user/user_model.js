@@ -1,4 +1,4 @@
-const { timeStamp } = require("console");
+
 const { Schema, model } = require("mongoose");
 
 const OTPSchema = new Schema({
